@@ -1,0 +1,88 @@
+# Authentication & Security Files - NEVER COMMIT THESE
+# (Allow knowledge_base_final.json as it's your main data file)
+
+# Daily.dev Authentication
+daily_dev_cookies.json
+manual_dailydev_cookies.json
+authenticated_dailydev_session.json
+nextjs_data_sample.json
+graphql_sample.json
+
+# GitHub Credentials (Encrypted)
+.github_creds.enc
+.auth_key
+
+# Session Data
+*.session
+*.cookies
+
+# API Keys & Tokens
+.env
+.env.local
+*.key
+*.pem
+*.p12
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Logs
+*.log
+logs/
+
+# Data files (to prevent accidentally committing large datasets)
+data/
+*.db
+*.sqlite
+*.sqlite3

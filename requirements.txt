@@ -1,14 +1,68 @@
-yt-dlp==2023.12.30
-openai-whisper
-chromadb==0.4.22
-langchain==0.1.5
-langchain-community==0.0.13
-sentence-transformers==2.2.2
-ollama==0.1.7
+# Core dependencies
 streamlit==1.29.0
+ollama==0.1.7
 python-dotenv==1.0.0
 pandas==2.1.4
 numpy==1.24.3
 requests==2.31.0
-beautifulsoup4==4.12.2
 tqdm==4.66.1
+
+# AI and ML dependencies
+sentence-transformers==2.2.2
+chromadb==0.4.22
+langchain==0.1.5
+langchain-community==0.0.13
+
+# Video processing
+yt-dlp==2023.12.30
+openai-whisper
+
+# Web scraping and parsing
+beautifulsoup4==4.12.2
+
+# Configuration and utilities
+pyyaml>=6.0.1
+typing-extensions>=4.8.0
+
+# Enhanced features for visual learning and project management
+plotly>=5.17.0  # Interactive visualizations
+networkx>=3.2  # Network graphs for concept mapping
+
+# Multi-format document processing
+PyPDF2>=3.0.0  # PDF processing
+python-docx>=0.8.11  # DOCX processing
+beautifulsoup4>=4.12.2  # Web scraping and HTML parsing
+markdown>=3.5.0  # Markdown processing
+
+qdrant-client>=1.7.0  # Alternative vector DB
+# pinecone-client>=2.2.4  # Cloud vector DB (optional)
+
+# Multi-modal processing
+pillow>=10.0.0  # Image processing
+# opencv-python>=4.8.0  # Computer vision (optional)
+# easyocr>=1.7.0  # OCR capabilities (optional)
+transformers>=4.35.0  # Hugging Face models
+
+# Development tools integration
+gitpython>=3.1.40  # Git integration
+fastapi>=0.104.0  # API endpoints
+uvicorn>=0.24.0  # ASGI server
+websockets>=12.0  # Real-time communication
+
+# Enterprise features
+pyjwt>=2.8.0  # JWT authentication
+cryptography>=41.0.0  # Encryption
+sqlalchemy>=2.0.0  # Database ORM
+
+# Testing and development
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+# black>=23.0.0  # Code formatting (optional)
+# flake8>=6.0.0  # Linting (optional)
+# mypy>=1.6.0  # Type checking (optional)
+
+# MCP and Daily.dev integration (optional)
+# mcp>=1.0.0  # Model Context Protocol
+# selenium>=4.15.0  # Web scraping
+# webdriver-manager>=4.0.0  # Chrome driver management
+# fastmcp>=0.3.0  # MCP server framework

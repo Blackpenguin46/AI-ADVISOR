@@ -66,7 +66,16 @@
       "always if you have any questions about always if you have any questions about fine-tuning rag or all AI related topics fine-tuning rag or all AI related topics fine-tuning rag or all AI related topics let us know in the comment section below let us know in the comment section below let us know in the comment section below don't forget to like the video and don't forget to like the video and don't forget to like the video and subscribe to the channel for more subscribe to the channel for more",
       "subscribe to the channel for more content thanks so much for watching"
     ],
-    "chunk_count": 58
+    "chunk_count": 58,
+    "content_id": "e07d5e06-b222-4da5-b5bc-286cd42dc4fd",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554798"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=zYGDpG-pTho&t=1s": {
     "title": "RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models",
@@ -139,7 +148,16 @@
       "computational overhead and then computational overhead and then fine-tuning that enables deep domain fine-tuning that enables deep domain fine-tuning that enables deep domain expertise but it requires significant expertise but it requires significant expertise but it requires significant resources and maintenance. Basically it resources and maintenance. Basically it resources and maintenance. Basically it comes down to picking the methods that comes down to picking the methods that comes down to",
       "picking the methods that work for you. You know, we've we sure work for you. You know, we've we sure work for you. You know, we've we sure come a long way from vanity searching on come a long way from vanity searching on come a long way from vanity searching on Google"
     ],
-    "chunk_count": 62
+    "chunk_count": 62,
+    "content_id": "841be048-7884-49b0-bcd3-54c2ab9ff26c",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554815"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=HdafI0t3sEY&t=2s": {
     "title": "RAG vs. CAG: Solving Knowledge Gaps in AI Models",
@@ -177,7 +195,16 @@
       "enormous knowledge bases, and then CAG's capability for providing the full breadth of medical knowledge when needed for those follow-up questions without the system repeatedly querying the database. So essentially, RAG and CAG are two strategies for enhancing LLMs with external knowledge, and you'd consider RAG when your knowledge source is very large, or it's frequently updated, or you need citations, or where resources for running long context window models are a bit limited, but you would",
       "consider CAG when you have a fixed set of knowledge that can fit within the context window of the model you're using, where latency is important, it needs to be fast, and where you want to simplify deployment. RAG or CAG, the choice is up to you."
     ],
-    "chunk_count": 27
+    "chunk_count": 27,
+    "content_id": "f88903ea-5038-42ae-93bd-3b147a361501",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554820"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=qppV3n3YlF8&t=1s": {
     "title": "RAG Explained",
@@ -230,7 +257,16 @@
       "same kind of confidence when we're building out these types of gender AI building out these types of gender AI building out these types of gender AI use cases for business as well exactly use cases for business as well exactly use cases for business as well exactly love so governance AI but also data and love so governance AI but also data and love so governance AI but also data and data management are incredibly important data management are incredibly important data management are incredibly",
       "important to this process we need all three in to this process we need all three in to this process we need all three in order to get the best result"
     ],
-    "chunk_count": 42
+    "chunk_count": 42,
+    "content_id": "5f5036fa-a958-4f5b-b28b-1356084763a5",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554824"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=0z9_MhcYvcY&t=1s": {
     "title": "What is Agentic RAG?",
@@ -251,7 +287,16 @@
       "and legal tech. For example, a lawyer can source answers to their questions from like their internal briefs and then in another query, just get stuff from public caseload databases. The agent can be utilized in a ton of ways. Agentic RAG is an evolution in how we enhance the RAG pipeline by moving beyond simple response generation to more intelligent decision making. By allowing an agent to choose the best data sources and potentially even incorporate external information like real timedata or",
       "third party services. We can create a pipeline that's more responsive, more accurate, and more adaptable. This approach opens up so many possibilities for applications in customer service, legal, tech, health care, virtually any field as IT technology continues to evolve. We will see AI systems that truly understand context and can deliver amazing values to the end user."
     ],
-    "chunk_count": 10
+    "chunk_count": 10,
+    "content_id": "a9365abd-a2ed-4194-a1c7-ac3a53c9fc17",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554828"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=Aw7iQjKAX2k&t=1s": {
     "title": "GraphRAG vs. Traditional RAG: Higher Accuracy & Insight with LLM",
@@ -281,7 +326,16 @@
       "and subsequently once you're querying it you will get better explainability and traceability explainability and traceability explainability and traceability and access controls thank you for and access controls thank you for and access controls thank you for watching and hope you like this watching and hope you like this watching and hope you like this video if you have any questions or video if you have any questions or video if you have any questions or comments let me know below and don't",
       "comments let me know below and don't comments let me know below and don't forget to like And subscribe for more forget to like And subscribe for more forget to like And subscribe for more content like this"
     ],
-    "chunk_count": 19
+    "chunk_count": 19,
+    "content_id": "4f47c0f9-3ca8-4cf6-9a8e-ca9ec81eaecd",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554831"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=Yq29bZ8Hlrc": {
     "title": "Optimize RAG with AI Agents & Vector Databases",
@@ -464,7 +518,16 @@
       "route that makes a web cool. Maybe add a route that makes a web cool. Maybe add a route that makes a web search if the query is just totally out search if the query is just totally out search if the query is just totally out of bounds. Maybe create an agent whose of bounds. Maybe create an agent whose of bounds. Maybe create an agent whose only job it is is to format the response only job it is is to format the response only job it is is to format the response in a particular way. We would love",
       "to in a particular way. We would love to in a particular way. We would love to see anything you do with it. Dive into see anything you do with it. Dive into see anything you do with it. Dive into the code, have fun, build something the code, have fun, build something the code, have fun, build something cool, refactor it, make it better. Just cool, refactor it, make it better. Just cool, refactor it, make it better. Just be creative."
     ],
-    "chunk_count": 172
+    "chunk_count": 172,
+    "content_id": "df5d7ed8-005b-4cf4-a641-ee2db1714ea1",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554835"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=y7sXDpffzQQ": {
     "title": "What is a Knowledge Graph?",
@@ -499,7 +562,16 @@
       "the edge between human and coffee is consume the edge between the edge between the edge between human and sleep is needs and what i learned last night the edge and what i learned last night the edge and what i learned last night the edge between coffee and sleep between coffee and sleep between coffee and sleep is prevents avoid caffeine after 5 pm folks avoid caffeine after 5 pm folks avoid caffeine after 5 pm folks if you have any questions please drop us if you have any questions please drop",
       "us if you have any questions please drop us a line below and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like this in the future please videos like this in the future please videos like this in the future please like and subscribe like and subscribe like and subscribe thanks for watching"
     ],
-    "chunk_count": 24
+    "chunk_count": 24,
+    "content_id": "b354d07f-312e-4983-92dc-01162b98e774",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554838"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=Za7aG-ooGLQ": {
     "title": "GraphRAG Explained: AI Retrieval with Knowledge Graphs & Cypher",
@@ -581,7 +653,16 @@
       "these sort of It's possible to build these sort of It's possible to build these sort of hybrid rag systems using both vector hybrid rag systems using both vector hybrid rag systems using both vector databases and graph databases and graph databases and graph databases. Check out the GitHub link in databases. Check out the GitHub link in databases. Check out the GitHub link in the description below to try out graph the description below to try out graph the description below to try out graph rag",
       "for yourself."
     ],
-    "chunk_count": 71
+    "chunk_count": 71,
+    "content_id": "3435bfa0-44c9-472a-9fb6-7e8ffb96b0b1",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554841"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=jcgaNrC4ElU": {
     "title": "Five Steps to Create a New AI Model",
@@ -603,7 +684,16 @@
       "improve the model over time. Now here at IBM we’ve announced a platformthat enables all 5 of the stages of this workflow. And It’s called watsonx and it’s composed ofthree elements. So we have: watsonx.data, watsonx.governance, and watsonx.ai., and this all built on IBM’shybrid cloud platform which is Red Hat OpenShift. Now Watsonx.data is a modern data lakehouse and establishes connections with the datarepositories that make up the data inStage 1. Watsonx.governance manages the data cards from",
       "Stage 1 and model cards fromStage 3 enabling a collection of fact sheets that ensure a well-governed AI process andlifecycle. And watsonx.ai provides a means for the application developer personato engage with the model in Stage 4. Overall foundation models are changingthe way we build specialized AI models and this 5-stage workflow allows teams tocreate AI and AI-derived applications with greater sophistication while rapidlyspeeding up AI model development."
     ],
-    "chunk_count": 11
+    "chunk_count": 11,
+    "content_id": "86e32a51-f54f-4086-acd9-fd347e2a9731",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554845"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=ZXiruGOCn9s": {
     "title": "What are Transformers (Machine Learning Model)?",
@@ -639,7 +729,16 @@
       "paralyzed are getting better all the time and who getting better all the time and who getting better all the time and who knows pretty soon maybe they'll even be knows pretty soon maybe they'll even be knows pretty soon maybe they'll even be able to pull off banana jokes that able to pull off banana jokes that able to pull off banana jokes that are actually funny if you have any questions please drop us if you have any questions please drop us if you have any questions please drop us a line below",
       "and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like this in the future please videos like this in the future please videos like this in the future please like and subscribe like and subscribe like and subscribe thanks for watching"
     ],
-    "chunk_count": 25
+    "chunk_count": 25,
+    "content_id": "b15ec046-f6d1-4767-8bcb-d21efd566739",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554848"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=0Wwn5IEqFcg": {
     "title": "Small vs. Large AI Models: Trade-offs & Use Cases Explained",
@@ -664,7 +763,16 @@
       "and Bert score metrics that were statistically indistinguishable from a much larger model GPT 3.5 turbo. And that's despite the model running 30 times cheaper and faster. And another good use case comes down to enterprise chat bots. So with these, a business can fine tune a seven or a 13 billion parameter model on its own manuals, and it can reach near expert accuracy. And IBM found that the the granite 13 B family match the performance of models that were five times larger on typical enterprise",
       "Q and A task. So the rule of thumb is for expansive, open ended reasoning. Bigger does still buy more headroom for focused skills like summarizing and classifying. A carefully trained small model delivers perhaps 90% of the quality at a fraction of the cost. So go big. Stay small. In the end, it's your use case that will drive the decision."
     ],
-    "chunk_count": 14
+    "chunk_count": 14,
+    "content_id": "53318fd5-ae77-4ffc-9683-b5216fa0d3ba",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554893"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=QPQy7jUpmyA&t=1s": {
     "title": "Why Are There So Many Foundation Models?",
@@ -684,7 +792,16 @@
       "tuning, our flood and wildfire prediction model can be redeployed for tasks like tracking deforestation or predicting crop yields, or even looking at detecting and monitoring greenhouse gases. In fact, Clark University are adapting this very model for other applications, including time series segmentation and similarity search. So in this case, foundation models are multiplying the usefulness of NASA data where fine tuning can adapt these models to new use cases. And look, that's just NASA Earth",
       "science data. Those thousands of open source foundation models that I mentioned at the beginning, they are trained and tuned on a wide variety of other data, like code generation or foundation models related to a specific industry. So by selecting the right foundation model and adapting it, we can put that model to work in new ways to meet our needs. And that is why there are so many foundation models available and why there are so many more to come."
     ],
-    "chunk_count": 9
+    "chunk_count": 9,
+    "content_id": "fc24cea6-be6d-47cf-a65c-e99373e16c2d",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554899"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=W01tIRP_Rqs": {
     "title": "Supervised vs. Unsupervised Learning",
@@ -709,7 +826,16 @@
       "medical attention without going throughand labeling the entire set. Machine learning models are a powerful way to gainthe data insights that improve our world. The right model for your data depends on thetype of data that you have and what you want to do with it. And the choice between supervised andunsupervised learning is only the first step. If you have any questions, please drop us a line below. And if you want to see more videos like this in the future, please like and subscribe. Thanks for",
       "watching!"
     ],
-    "chunk_count": 14
+    "chunk_count": 14,
+    "content_id": "4b9c6709-9793-4ac9-b2a5-8f8c455804b0",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554903"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=S5AGN9XfPK4": {
     "title": "What is Back Propagation",
@@ -733,7 +859,16 @@
       "networks have loops, and this type of back propagation is slightly more complex given the recursive nature of these networks. Now, some use cases? If we think about sentiment analysis, that's a common use case for this. And that's a good example of where RNNs are used to analyze the sentiment of a piece of text, like a customer product review. Another good example is time series prediction. So predicting things like stock prices or weather patterns. Ultimately, back propagation is the backbone of",
       "the learning in neural networks. It tests for errors, working its way back from the output layer to the input layer, adjusting the weights as it goes with the goal to minimize future errors. Errors like how to pronounce Martin in a passible American accent. MART-EN... MAR-EN... MART-ENNE."
     ],
-    "chunk_count": 13
+    "chunk_count": 13,
+    "content_id": "35efe8ac-bc90-45f8-960e-eee1a7eafdcf",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554908"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=zqv1eELa7fs": {
     "title": "Training AI Models with Federated Learning",
@@ -777,7 +912,16 @@
       "addressing privacy of AI applications by addressing privacy of AI applications by addressing privacy concerns and leveraging the power of concerns and leveraging the power of concerns and leveraging the power of distributed computing distributed computing distributed computing Federated learning holds the potential Federated learning holds the potential Federated learning holds the potential to revolutionize how AI models are to revolutionize how AI models are to revolutionize how AI models are",
       "trained trained trained if you have any questions please drop us if you have any questions please drop us if you have any questions please drop us a line below and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like this in the future please videos like this in the future please videos like this in the future please like And subscribe thanks for watching"
     ],
-    "chunk_count": 33
+    "chunk_count": 33,
+    "content_id": "23d658c9-6313-4c91-8555-2b38cd7d0a5d",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554912"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=pePAAGfh-IU": {
     "title": "How to Pick the Right AI Foundation Model",
@@ -802,7 +946,16 @@
       "size and compute power, including the number of GPUs it takes to run a single large language model. Now, everything we've discussed here is tied to a specific use case, but of course it's quite likely that any given organization will have multiple use cases. And as we run through this model selection framework, we might find that each use case is better suited to a different foundation model. That's called a multi model approach. Essentially, not all A.I. models are the same, and neither are your",
       "use cases. And this framework might be just what you need to pair the models and the use cases together to find a winning combination of both."
     ],
-    "chunk_count": 14
+    "chunk_count": 14,
+    "content_id": "b6285984-3681-44bd-95be-4332cbeec5f5",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554915"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=pYax2rupKEY": {
     "title": "How to Choose Large Language Models: A Developer’s Guide to LLMs",
@@ -858,7 +1011,16 @@
       "we're just getting started device. But we're just getting started device. But we're just getting started because after experimenting with models because after experimenting with models because after experimenting with models comes the stage of building something comes the stage of building something comes the stage of building something great with AI. Now, what are you working great with AI. Now, what are you working great with AI. Now, what are you working on these days? Please let us know in",
       "the on these days? Please let us know in the on these days? Please let us know in the comments below. But as always, thank you comments below. But as always, thank you comments below. But as always, thank you so much for watching. Be sure to leave a so much for watching. Be sure to leave a so much for watching. Be sure to leave a like if you learned something today."
     ],
-    "chunk_count": 45
+    "chunk_count": 45,
+    "content_id": "c05eb7d9-ad89-48ed-abf1-898e6ee82915",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554918"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=y9k-U9AuDeM": {
     "title": "Should You Use Open Source Large Language Models?",
@@ -879,7 +1041,16 @@
       "Although LLM outputs often sounds fluent and authoritative, they can be confidently wrong. Hallucinations, they can result from the LLM being trained on incomplete, contradictory, or inaccurate data from misunderstanding context. Bias happens when the source of data is not diverse or not representative. And security problems can include leaking PII, and cybercriminals using the LLMs for malicious tasks like phishing. Especially in these early days of large language models, we do need to mitigate",
       "risk. But open source LLMs are thriving in business. Here at IBM, the Watsonx.ai Studio makes available access to multiple Llama 2 models, and IBM has released a series of foundation models of its own called Granite. And this space is changing rapidly, making open source LLMs a field well-worth keeping a close eye on."
     ],
-    "chunk_count": 10
+    "chunk_count": 10,
+    "content_id": "c94900ac-60db-48a0-9c8a-02e43095ead3",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554922"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=KTonvXhsxpc": {
     "title": "What is DeepSeek? AI Model Basics Explained",
@@ -908,7 +1079,16 @@
       "neural network. So consequently, the MoE architecture reduces computational costs during pre-training and achieves faster performance during inference time and look MoE, that architecture isn't unique to models from DeepSeek. There are models from the French AI company Mistral that also use this, and in fact the IBM Granite model that is also built on a mixture of experts architecture. So it's a commonly used architecture. So that is DeepSeek R1. It's an AI reasoning model that is matching other",
       "industry leading models on reasoning benchmarks, while being delivered at a fraction of the cost in both training and inference. All of which makes me think this is an exciting time for AI reasoning models."
     ],
-    "chunk_count": 18
+    "chunk_count": 18,
+    "content_id": "17881bce-2b8c-4a95-b5a7-5270f9a512c5",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554925"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=iR2O2GPbB0E&t=1s": {
     "title": "What are Large Language Models (LLMs)?",
@@ -954,7 +1134,16 @@
       "that's why it's always worth predictable that's why it's always worth trying out lots of different structures trying out lots of different structures trying out lots of different structures and examples and formats and seeing what and examples and formats and seeing what and examples and formats and seeing what works best for your use case there you works best for your use case there you works best for your use case there you have it that's the magic of LMS in a have it that's the magic of LMS in",
       "a have it that's the magic of LMS in a nutshell you can check out Bard at nutshell you can check out Bard at nutshell you can check out Bard at bard.google.com and definitely let us bard.google.com and definitely let us bard.google.com and definitely let us know in the comments below what you're know in the comments below what you're know in the comments below what you're building with llms"
     ],
-    "chunk_count": 35
+    "chunk_count": 35,
+    "content_id": "8456d13b-e833-42f5-a035-67a0142464e1",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554928"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=S-n3hwpMap4": {
     "title": "LEARN AI: Module 3: Prompt Engineering - Listen",
@@ -1009,7 +1198,16 @@
       "insights and more actionable information. Ultimately, actionable information. Ultimately, actionable information. Ultimately, mastering prompt engineering ensures mastering prompt engineering ensures mastering prompt engineering ensures that your interactions with generative that your interactions with generative that your interactions with generative AI are productive and satisfying, AI are productive and satisfying, AI are productive and satisfying, allowing you to unlock the full allowing you",
       "to unlock the full allowing you to unlock the full potential of AI tools like Chad GBT."
     ],
-    "chunk_count": 44
+    "chunk_count": 44,
+    "content_id": "85a1d813-417d-434e-8485-ca0367f851d9",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554931"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=-QVoIxEpFkM": {
     "title": "What is a Context Window? Unlocking LLM Secrets",
@@ -1037,7 +1235,16 @@
       "prompts, a long context length can increase a model's vulnerability to jailbreaking, where malicious content is embedded deep within the input, making it harder for the model safety mechanisms to detect and filter out harmful instructions. So no matter how you measure it with either with IBUs or more accurately, tokens, selecting the appropriate number of tokens for a context window involves balancing the need to supply ample information for the model's self attention mechanism. With the",
       "increasing demands and performance issues those additional tokens may bring."
     ],
-    "chunk_count": 17
+    "chunk_count": 17,
+    "content_id": "d730751c-4a30-4cc5-a6fd-4a020d0b59e3",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554936"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=_6SlPLNEpzQ": {
     "title": "Ollama In 120 Seconds",
@@ -1064,7 +1271,16 @@
       "models adjust parameters and even select models adjust parameters and even review previous messages and responses review previous messages and responses review previous messages and responses even if your Hardware isn't that even if your Hardware isn't that even if your Hardware isn't that powerful you can still get a ton of powerful you can still get a ton of powerful you can still get a ton of value from running small models on your value from running small models on your value from running",
       "small models on your computer with Ama"
     ],
-    "chunk_count": 16
+    "chunk_count": 16,
+    "content_id": "70193214-f067-4746-9ae1-851593768ea3",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554939"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=X3XJeTApVMM": {
     "title": "What Are Orchestrator Agents? AI Tools Working Smarter Together",
@@ -1096,7 +1312,16 @@
       "assistants can help decisions agents or assistants can help you make. This can only help your you make. This can only help your you make. This can only help your capabilities grow. So maybe you do have capabilities grow. So maybe you do have capabilities grow. So maybe you do have quite a few AI tools. By leveraging quite a few AI tools. By leveraging quite a few AI tools. By leveraging orchestrator agents, teams can ensure AI orchestrator agents, teams can ensure AI orchestrator agents, teams",
       "can ensure AI tools work together efficiently, tools work together efficiently, tools work together efficiently, reducing complexity and maximizing reducing complexity and maximizing reducing complexity and maximizing value."
     ],
-    "chunk_count": 21
+    "chunk_count": 21,
+    "content_id": "1a8c3a6e-9947-4aa9-8da5-18844c4609ae",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554942"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=REVkXVxvMQE": {
     "title": "What is a graph database? (in 10 minutes)",
@@ -1176,7 +1401,16 @@
       "use cases that you want to share with the rest of the world want to share with the rest of the world want to share with the rest of the world then you can come to me and then you then you can come to me and then you then you can come to me and then you know we could do something with the know we could do something with the know we could do something with the community so yeah hopefully you enjoyed community so yeah hopefully you enjoyed community so yeah hopefully you enjoyed the session and",
       "hopefully this was the session and hopefully this was the session and hopefully this was helpful helpful helpful see you soon bye"
     ],
-    "chunk_count": 69
+    "chunk_count": 69,
+    "content_id": "de75e182-1ab2-481e-b99e-cb86b3fdd500",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554945"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=FZR0rG3HKIk": {
     "title": "Virtualization Explained",
@@ -1215,7 +1449,16 @@
       "it's few decades old at this point but it's few decades old at this point but it's still super critical to understand for still super critical to understand for still super critical to understand for your cloud computing strategy today your cloud computing strategy today your cloud computing strategy today thanks for watching as we discuss the thanks for watching as we discuss the thanks for watching as we discuss the basics of virtualization make sure to basics of virtualization make sure to",
       "basics of virtualization make sure to subscribe below and give us a big thumbs subscribe below and give us a big thumbs subscribe below and give us a big thumbs up if you liked this content"
     ],
-    "chunk_count": 28
+    "chunk_count": 28,
+    "content_id": "4928cd62-7888-4933-9913-903ac8d46f14",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554948"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=cjXI-yxqGTI": {
     "title": "Containers vs VMs: What's the difference?",
@@ -1243,7 +1486,16 @@
       "virtualization that you may be used to interacting with daily, where we're running something like a virtual box or parallels. So, we can take the flexibility that's offered by our lightweight Type 2 hypervisors, and the portability that's offered by containers, and run these together. We see the technologies around virtual machines maturing, like with KubeVirt, and we're seeing in newer versions of Kubernetes and OpenShift, that we can run virtual machines and containers not as competing",
       "technologies, but as technologies that can work together depending on our use-cases. Thank you so much for sticking with us through the video. If you have any questions please drop us a line below, and if you want to see more videos like this in the future please like and subscribe to our channel. And don't forget, you can grow your skills and earn a badge with IBM CloudLabs, which are free browser-based, interactive Kubernetes labs."
     ],
-    "chunk_count": 17
+    "chunk_count": 17,
+    "content_id": "f2104897-2ab7-476a-b577-06ea5f6c4416",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554951"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=tzrwxLNHtRY": {
     "title": "Model Context Protocol Clearly Explained | MCP Beyond the Hype",
@@ -1325,7 +1577,16 @@
       "thing evolves we are going see how this thing evolves we are going see how this thing evolves we are going to come up with few more technical to come up with few more technical to come up with few more technical tutorials uh on this so I'll be building tutorials uh on this so I'll be building tutorials uh on this so I'll be building some actual servers and clients using some actual servers and clients using some actual servers and clients using mCP if you have have any question please mCP if you",
       "have have any question please mCP if you have have any question please post in the comment box below thank you post in the comment box below thank you post in the comment box below thank you for watching"
     ],
-    "chunk_count": 71
+    "chunk_count": 71,
+    "content_id": "23528605-b459-49e4-866e-131b1a15a1a1",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554955"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=wgfSDrqYMJ4": {
     "title": "What are Word Embeddings?",
@@ -1351,7 +1612,16 @@
       "representation of a word changes based on its surrounding context. So, for example, in a transformer model, the word bank would have different representations in the sentence I'm going to the bank to deposit money and I'm sitting on the bank of a river. This context sensitivity allows these models to capture more nuanced meanings and relationships between words, which has led to all sorts of improvements in the various fields of NLP tasks. So that's word embeddings, from simple numeric vectors to",
       "complex representations. Word embeddings have revolutionized how machines understand and process human language. Proving that transforming words into numbers is indeed a powerful tool for making sense of our linguistic world."
     ],
-    "chunk_count": 15
+    "chunk_count": 15,
+    "content_id": "efb338dd-2c9d-4f58-bec3-aa64c0475e70",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554958"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=jmmW0F0biz0": {
     "title": "Neural Networks Explained in 5 minutes",
@@ -1370,7 +1640,16 @@
       "finally, number five: there are multiple types of neural networks beyond the feed forward neural network that we've described here. For example, there are convolutional neural networks, known as CNNs, which have a unique architecture that's well suited for identifying patterns like image recognition. And there are recurrent neural networks, or RNNs, which are identified by their feedback loops and RNNs are primarily leveraged using time series data to make predictions about future events like",
       "sales forecasting. So, five things in five minutes. To learn more about neural networks, check out these videos. Thanks for watching. If you haveany questions, please drop us a line below. And if you want to see more videos like this in the future, please Like and Subscribe."
     ],
-    "chunk_count": 8
+    "chunk_count": 8,
+    "content_id": "79a43cb5-eddf-47d3-8ef6-5c29d0eda708",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554961"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=QzY57FaENXg": {
     "title": "What are Convolutional Neural Networks (CNNs)?",
@@ -1410,7 +1689,16 @@
       "can apply a cnn to perform fact that we can apply a cnn to perform fact that we can apply a cnn to perform object identification for object identification for object identification for badly drawn houses badly drawn houses badly drawn houses if you have any questions please drop us if you have any questions please drop us if you have any questions please drop us a line below and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like",
       "this in the future please videos like this in the future please videos like this in the future please like and subscribe like and subscribe like and subscribe thanks for watching"
     ],
-    "chunk_count": 29
+    "chunk_count": 29,
+    "content_id": "899a0706-963d-4434-bc0d-5c17faa7439e",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554964"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=TpMIssRdhco": {
     "title": "What are GANs (Generative Adversarial Networks)?",
@@ -1457,7 +1745,16 @@
       "your of the Bots where you can take your of the Bots where you can take your young impressionable and unchanged young impressionable and unchanged young impressionable and unchanged generator and turn it into a master of generator and turn it into a master of generator and turn it into a master of forgery if you have any questions please forgery if you have any questions please forgery if you have any questions please drop us a line below and if you want to drop us a line below and if you want to",
       "drop us a line below and if you want to see more videos like this in the future see more videos like this in the future see more videos like this in the future please like And subscribe"
     ],
-    "chunk_count": 36
+    "chunk_count": 36,
+    "content_id": "da10ab54-610f-4de2-a09b-f6557afc1535",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554967"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=b61DPVFX03I": {
     "title": "What is LSTM (Long Short Term Memory)?",
@@ -1505,7 +1802,16 @@
       "murder had we also applied lstm to our murder had we also applied lstm to our murder mystery dinner we probably could have mystery dinner we probably could have mystery dinner we probably could have won first prize by having it forecast to won first prize by having it forecast to won first prize by having it forecast to us that whodunit was the butler us that whodunit was the butler us that whodunit was the butler so is the butler so is the butler so is the butler if you have any questions please",
       "drop us if you have any questions please drop us if you have any questions please drop us a line below and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like this in the future please videos like this in the future please videos like this in the future please consider liking and subscribing"
     ],
-    "chunk_count": 37
+    "chunk_count": 37,
+    "content_id": "59df6e24-d73b-4b30-ac55-a21683c99592",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554970"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=fLvJ8VdHLA0": {
     "title": "What is NLP (Natural Language Processing)?",
@@ -1557,7 +1863,16 @@
       "some sense but hopefully this made some sense and that you were able to process and that you were able to process and that you were able to process some of the natural language that i've some of the natural language that i've some of the natural language that i've shared today shared today shared today thanks for watching if you have thanks for watching if you have thanks for watching if you have questions please drop us a line below questions please drop us a line below questions please drop us",
       "a line below if you want to see more videos like this if you want to see more videos like this if you want to see more videos like this in the future please like and subscribe"
     ],
-    "chunk_count": 41
+    "chunk_count": 41,
+    "content_id": "e8fab700-94c1-4601-967e-175e013a1fde",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554973"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=1I6bQ12VxV0": {
     "title": "NLP vs NLU vs NLG",
@@ -1596,7 +1911,16 @@
       "has many practical applications and has many practical applications and has many practical applications like me like me like me thanks nlp algorithm thanks nlp algorithm thanks nlp algorithm if you have any questions please drop us if you have any questions please drop us if you have any questions please drop us a line below and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like this in the future please videos like this in the",
       "future please videos like this in the future please like and subscribe like and subscribe like and subscribe thanks for watching"
     ],
-    "chunk_count": 28
+    "chunk_count": 28,
+    "content_id": "3c7e192b-d2f3-4c3a-af90-02b615146186",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554976"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=L3ynnRgpZwg": {
     "title": "What is an RBM (Restricted Boltzmann Machine)?",
@@ -1631,7 +1955,16 @@
       "recommendation system time perhaps the recommendation system can find you another video that suits can find you another video that suits can find you another video that suits your interests hopefully one from the your interests hopefully one from the your interests hopefully one from the IBM technology Channel if you have any questions please Channel if you have any questions please Channel if you have any questions please drop us a line below and if you want to drop us a line below and if you",
       "want to drop us a line below and if you want to see more videos like this in the future see more videos like this in the future see more videos like this in the future please like and subscribe thanks for please like and subscribe thanks for please like and subscribe thanks for watching"
     ],
-    "chunk_count": 24
+    "chunk_count": 24,
+    "content_id": "52d53387-1696-42e2-bdd0-b2f80236b429",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554979"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=q6kJ71tEYqM": {
     "title": "Machine Learning vs Deep Learning",
@@ -1675,7 +2008,16 @@
       "today yeah that's uh that's enough for today yeah that's uh that's enough for today it's time for lunch it's time for lunch it's time for lunch oh oh and before i go if you did enjoy oh oh and before i go if you did enjoy oh oh and before i go if you did enjoy this video here are some others you this video here are some others you this video here are some others you might also like might also like might also like if you have any questions please drop us if you have any questions please drop us if",
       "you have any questions please drop us a line below and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like this in the future please videos like this in the future please videos like this in the future please like and subscribe like and subscribe like and subscribe thanks for watching"
     ],
-    "chunk_count": 33
+    "chunk_count": 33,
+    "content_id": "a7858d7a-57e8-4248-9899-bc14105107ff",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554982"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=gkXX4h3qYm4": {
     "title": "What is Random Forest?",
@@ -1695,7 +2037,16 @@
       "likelihood of a default. In a medical diagnosis, it can be used to predict prognosis or survival rates depending on treatment options and in economics. It can be used to sort of help understand whether a policy is effective or ineffective. So, what do you think? Should I play golf today? Well, the sum of all my random forest decision trees say yes. I'll see you out on the course. If you have any questions, please drop us a line below, and if you want to see more videos like this in the future,",
       "please like and subscribe. Thanks for watching."
     ],
-    "chunk_count": 9
+    "chunk_count": 9,
+    "content_id": "fe28171b-af28-4d52-b09b-1a2ab1dafc7d",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554985"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=7TqhmX92P6U": {
     "title": "What is Monte Carlo Simulation?",
@@ -1727,7 +2078,16 @@
       "to travel and while you may not be able to travel into the future with monte carlo into the future with monte carlo into the future with monte carlo simulation you'll have a much better simulation you'll have a much better simulation you'll have a much better idea about the possibilities idea about the possibilities idea about the possibilities that the future holds that the future holds that the future holds if you have any questions please drop us if you have any questions please drop us if you",
       "have any questions please drop us a line below and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like this in the future please videos like this in the future please videos like this in the future please like and subscribe thanks for watching"
     ],
-    "chunk_count": 21
+    "chunk_count": 21,
+    "content_id": "04e184bc-2f9e-4574-a146-2f58bfa43c98",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554989"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=0RT2Q0qwXSA": {
     "title": "Overfitting, Underfitting, and Bad Data Are Ruining Your Predictive Models",
@@ -1770,7 +2130,16 @@
       "now keep these three things in mind and you should be well on your way to you should be well on your way to you should be well on your way to developing better fitting models developing better fitting models developing better fitting models if you have any questions please drop us if you have any questions please drop us if you have any questions please drop us a line below and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like",
       "this in the future please videos like this in the future please videos like this in the future please like and subscribe like and subscribe like and subscribe thanks for watching"
     ],
-    "chunk_count": 32
+    "chunk_count": 32,
+    "content_id": "5759fa61-838b-41a6-b9ab-9d95917bdb5f",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554992"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=T7Wr7wVK5Wo": {
     "title": "Fluid vs. Crystallized Intelligence",
@@ -1803,7 +2172,16 @@
       "it can intelligence because it can apply that model to a previously unseen apply that model to a previously unseen apply that model to a previously unseen problem problem problem and as for me and as for me and as for me my crystallized and fluid intelligence my crystallized and fluid intelligence my crystallized and fluid intelligence is telling me that is telling me that is telling me that morning croissants under the eiffel morning croissants under the eiffel morning croissants under the",
       "eiffel tower tower tower should be top of my list if you have any questions please drop us if you have any questions please drop us if you have any questions please drop us a line below and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like this in the future please videos like this in the future please videos like this in the future please like and subscribe like and subscribe like and subscribe thanks for watching"
     ],
-    "chunk_count": 22
+    "chunk_count": 22,
+    "content_id": "1541c707-00a0-481b-aa1a-553b43928bc4",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554995"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=Fu273ovPBmQ": {
     "title": "Activation Functions In Neural Networks Explained | Deep Learning Tutorial",
@@ -1855,7 +2233,16 @@
       "functions are and how you can use them and if you have any questions let me and if you have any questions let me and if you have any questions let me know in the comments and also if you know in the comments and also if you know in the comments and also if you enjoyed this video then please hit the enjoyed this video then please hit the enjoyed this video then please hit the like button and consider subscribing to like button and consider subscribing to like button and consider subscribing to the",
       "channel for more content like this the channel for more content like this the channel for more content like this and before you leave don't forget to and before you leave don't forget to and before you leave don't forget to grab your free api token using the link grab your free api token using the link grab your free api token using the link in the description below and then i hope in the description below and then i hope in the description below and then i hope to see you in the next video bye"
     ],
-    "chunk_count": 41
+    "chunk_count": 41,
+    "content_id": "ac0451ec-4bbf-46a7-94fc-19dad2ed9d0c",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.554998"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=qiUEgSCyY5o": {
     "title": "What are Autoencoders?",
@@ -1887,7 +2274,16 @@
       "noise recognizing relevant features and recognizing relevant features and recognizing relevant features and detecting anomalies a pretty handy detecting anomalies a pretty handy detecting anomalies a pretty handy toolbox for dealing with all sorts of toolbox for dealing with all sorts of toolbox for dealing with all sorts of data data data eerily similar clones if you have any questions please drop us if you have any questions please drop us if you have any questions please drop us a line below",
       "and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like this in the future please videos like this in the future please videos like this in the future please like and subscribe like and subscribe like and subscribe thanks for watching"
     ],
-    "chunk_count": 21
+    "chunk_count": 21,
+    "content_id": "86cd4554-d776-4dc0-8f14-e26701b87ea3",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555002"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=i62czvwDlsw": {
     "title": "Gradient Descent Explained",
@@ -1933,7 +2329,16 @@
       "is a powerful optimization descent is a powerful optimization descent is a powerful optimization algorithm and it is commonly used to algorithm and it is commonly used to algorithm and it is commonly used to train machine learning models and neural train machine learning models and neural train machine learning models and neural networks today it's a clever way to get networks today it's a clever way to get networks today it's a clever way to get you back down that mountain safely you back down",
       "that mountain safely you back down that mountain safely if you have any questions please drop us if you have any questions please drop us if you have any questions please drop us a line below and if you want to see more a line below and if you want to see more a line below and if you want to see more videos like this in the future please videos like this in the future please videos like this in the future please like And subscribe thanks for watching"
     ],
-    "chunk_count": 35
+    "chunk_count": 35,
+    "content_id": "87515a8f-b031-4304-9983-6100db9692a2",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555005"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=lsMQRaeKNDk": {
     "title": "What is a REST API?",
@@ -1958,7 +2363,16 @@
       "included in the body the flavor thatwe want to create, which is \"restful raspberry\", and in response we see ... yep, this new ID of \"2\" wascreated, the flavor is restful raspberry. Great! So, hopefully this clarifies what exactly is a REST API? What are some of the benefits? What's a real world example look like? ... and how are REST APIs fundamental to your cloud application development? Thank you. If you have questionsplease drop us a line below. If you want to see more videos like this in the",
       "future please \"like\" and subscribe, - and don't forget: you can grow your skills and earn a badge with IBM Cloud labs, whichare free browser-based interactive Kubernetes labs."
     ],
-    "chunk_count": 14
+    "chunk_count": 14,
+    "content_id": "9852a9b9-60e4-4211-96f7-554936a52b17",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555008"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=EqNe55IzjAw": {
     "title": "Cybersecurity Architecture: Fundamentals of Confidentiality, Integrity, and Availability",
@@ -1994,7 +2408,16 @@
       "sensitive data only available to those who are authorized to see it? Is this system true to itself? Do I have integrity checking so that if someone modifies it or tampers with it, I can be aware of that and know to adjust my trust level? And do I have the system available all the time that it's supposed to be available? This is the CIA triad. If I've covered all of these three bases, then it's job done. Thanks for watching. Before you leave, don't forget to hit subscribe. That way you won't miss",
       "the next installment of the Cybersecurity Architecture series."
     ],
-    "chunk_count": 25
+    "chunk_count": 25,
+    "content_id": "5bee0d82-69d2-4581-8787-af88feb58350",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555011"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=E9pHJRRfAhw": {
     "title": "Cybersecurity Architecture: Roles and Tools",
@@ -2088,7 +2511,16 @@
       "problem I need to be able to orchestrate problem I need to be able to orchestrate problem I need to be able to orchestrate my response to that problem so that we my response to that problem so that we my response to that problem so that we get it resolved as quickly as possible get it resolved as quickly as possible get it resolved as quickly as possible these are the seven domains that we're these are the seven domains that we're these are the seven domains that we're going to be covering in the",
       "rest of the going to be covering in the rest of the going to be covering in the rest of the series series series thanks for watching before you leave thanks for watching before you leave thanks for watching before you leave don't forget to hit subscribe that way don't forget to hit subscribe that way don't forget to hit subscribe that way you won't miss the next installment of you won't miss the next installment of you won't miss the next installment of the cyber security architecture series"
     ],
-    "chunk_count": 83
+    "chunk_count": 83,
+    "content_id": "ee077dbb-f80b-4693-99e7-d80876891c5c",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555014"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=Njqid_JpqTs": {
     "title": "Cybersecurity Architecture: Endpoints Are the IT Front Door - Guard Them",
@@ -2129,7 +2561,16 @@
       "we have a cloud-based file sharing program and everyone needs to use that. Don't use all of these others. And we're going to monitor and make sure that that's what you're using, for instance. So those are examples. Again, it's best not to say no. It's better to say how. And if I can say how on these kinds of things, I can guide the users to do the right thing. Always remember if we make it easier to do the wrong thing than it is to do the right thing, the users are going to basically do the wrong",
       "thing. So we want to make it easier and enable that. Okay, we've talked about endpoint security and covered that. In the next video, we're going to talk about network security. In case you've missed any in the series, take a look here. And if you want to make sure you don't miss any in the future, make sure to click, subscribe and notify so that you'll be notified when the next video comes out."
     ],
-    "chunk_count": 30
+    "chunk_count": 30,
+    "content_id": "6236337e-78d9-45b1-96c6-98cb4ec0dd36",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555017"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=UpkqXK0B2E0": {
     "title": "Cybersecurity Architecture:  Data Security",
@@ -2171,7 +2612,16 @@
       "the user, the human, is almost always the weakest link in any security system. So don't ignore this part. If you do, it's at your own peril. Okay. There we go. Those are the top five things that you can do to reduce the cost of a data breach, to reduce the likelihood that it ever happens to you in the first place. Make sure you have a good plan for doing all of these things. All right. Now, in the next video, we will cover monitoring and then the following video security response. So make sure",
       "you stay tuned to check those out--[click] like, subscribe, and hit the notify button so you'll know and not miss any videos in the series."
     ],
-    "chunk_count": 31
+    "chunk_count": 31,
+    "content_id": "960b20d4-0d23-4ac4-a2ad-079512bab2d0",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555020"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=VEu326IZpsc": {
     "title": "Cybersecurity Architecture: Detection",
@@ -2216,7 +2666,16 @@
       "threat hunter then uses tools like these, the SIEM and the XDR, to go off and look for searches and look for indicators of compromise. And if they do it correctly, what we end up with is early detection. We basically move the bar back. In a perfect world, we'd be able to detect future crimes and we'd arrest the bad guys before they even break in. But we don't live in that world. The next best thing we can do is try to find out as close to the attack as possible if we can't prevent it at all. Now,",
       "what we've done with this so far is we've talked about the detection aspect of all of these things. What we want to do in the final video in the series is talk about response. So make sure you don't miss it. Thanks for watching. Please remember to hit like and subscribe and don't miss the notify bell so that you don't miss any videos in this series."
     ],
-    "chunk_count": 34
+    "chunk_count": 34,
+    "content_id": "42a95204-7447-4514-b58d-34e401a54474",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555023"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=Jk79QJCxPkM": {
     "title": "Cybersecurity Architecture: Response",
@@ -2323,7 +2782,16 @@
       "want to miss you missed one you don't want to miss you missed one you don't want to miss you want to catch all of them so please you want to catch all of them so please you want to catch all of them so please go take a look at that and as always go take a look at that and as always go take a look at that and as always like subscribe and hit the notify bill like subscribe and hit the notify bill like subscribe and hit the notify bill so that you're aware of new videos as so that you're aware of",
       "new videos as so that you're aware of new videos as they come out thank you"
     ],
-    "chunk_count": 96
+    "chunk_count": 96,
+    "content_id": "bd780eb1-f099-422a-b426-bdb465e5500b",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555026"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=cjy5jpRS_S0": {
     "title": "Will AI Help or Hurt Cybersecurity? Definitely!",
@@ -2390,7 +2858,16 @@
       "security and if they're and cyber security and if they're working together as you see here we can working together as you see here we can working together as you see here we can end up with a more proactive Solution end up with a more proactive Solution end up with a more proactive Solution that's more cost effective and keeps us that's more cost effective and keeps us that's more cost effective and keeps us all much safer all much safer all much safer thanks for watching if you found this thanks",
       "for watching if you found this thanks for watching if you found this video interesting and would like to video interesting and would like to video interesting and would like to learn more about cyber security please learn more about cyber security please learn more about cyber security please remember to hit like And subscribe to remember to hit like And subscribe to remember to hit like And subscribe to this channel"
     ],
-    "chunk_count": 56
+    "chunk_count": 56,
+    "content_id": "39e6eddb-6368-4123-8410-8922f4a01459",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555029"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=XtT5i0ZeHHE": {
     "title": "AI Inference: The Secret to AI's Superpowers",
@@ -2403,7 +2880,16 @@
       "Video Description: Download the AI model guide to learn more → https://ibm.biz/BdaJTb Learn more about the technology → https://ibm.biz/BdaJTp Explore the world of AI Inference, a game-changing technology that's transforming the way we make decisions and interact with machines. Martin Keen gets into the basics of AI Inference, including what it is, how it works, and its exciting applications in real-world scenarios. By leveraging Data-Driven Decision Making, AI Inference enables organizations to",
       "make more accurate and informed decisions, leading to improved outcomes and increased efficiency. AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdaJT8"
     ],
-    "chunk_count": 2
+    "chunk_count": 2,
+    "content_id": "60132308-6835-4e9c-a113-cbb22c84e207",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555033"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=sYDlVVyJYn4": {
     "title": "What is Mixture of Experts?",
@@ -2416,7 +2902,16 @@
       "Video Description: Want to play with the technology yourself? Explore our interactive demo → https://ibm.biz/BdK8fn Learn more about the technology → https://ibm.biz/BdK8fe In this video, Master Inventor Martin Keen explains the concept of Mixture of Experts (MoE), a machine learning approach that divides an AI model into separate subnetworks or experts, each focusing on a subset of the input data. Martin discusses the architecture, advantages, and challenges of MoE, including sparse layers,",
       "routing, and load balancing. AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdK8fb"
     ],
-    "chunk_count": 2
+    "chunk_count": 2,
+    "content_id": "5d266287-e3e0-456d-99ed-d52288be73ce",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555036"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=OThahaOga20": {
     "title": "How to Add AI to Your Apps Faster with Embedded AI",
@@ -2429,7 +2924,16 @@
       "Video Description: Try out our embeddable AI technology → https://ibm.biz/BdMx6m Wondering what embeddable AI is, how one actually goes about embedding AI ... and where? In this video, Martin Keen talks about AI deployment, specifically how to deploy embeddable AI, and centers his discussion on the 2 major methods: containerized libraries and applications. Get started for free on IBM Cloud → https://ibm.biz/sign-up-now Subscribe to see more videos like this in the future →",
       "http://ibm.biz/subscribe-now #ai #watsonx"
     ],
-    "chunk_count": 2
+    "chunk_count": 2,
+    "content_id": "9422da50-3212-4450-9a2d-bcc179b28b5c",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555041"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=Gafjk7_w1i8": {
     "title": "The Power of Recurrent Neural Networks (RNN)",
@@ -2442,7 +2946,16 @@
       "Video Description: Want to play with the technology yourself? Explore our interactive demo → https://ibm.biz/BdK5Un Learn more about the technology → https://ibm.biz/BdK5Ue Unlock the power of Recurrent Neural Networks (RNN) Whether you're a beginner or looking to refresh your knowledge, this video will provide a clear and concise overview of RNNs, including their architecture, applications, and how they differ from other neural networks. AI news moves fast. Sign up for a monthly newsletter for",
       "AI updates from IBM → https://ibm.biz/BdK5Ub #Recurrent Neural Networks #RNN #Deep Learning #Neural Networks"
     ],
-    "chunk_count": 2
+    "chunk_count": 2,
+    "content_id": "abedf294-7600-45ea-bdd3-38f190228593",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555044"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=5uNifnVlBy4": {
     "title": "Cybersecurity Architecture: Who Are You? Identity and Access Management",
@@ -2455,7 +2968,16 @@
       "Video Description: IBM Security QRadar EDR : https://ibm.biz/BdyzJA IBM Security X-Force Threat Intelligence Index 2023: https://ibm.biz/BdyzJ9 Who are you? What system capabilities are you permitted? If you leave the company, what accesses need to be removed? These are all questions that fall in the identity and access management domain. In the fourth episode of the series, Jeff Crume explains IAM, which he defines as \"the new perimeter\" of cybersecurity. Get started for free on IBM Cloud →",
       "https://ibm.biz/ibm-cloud-sign-up Subscribe to see more videos like this in the future → http://ibm.biz/subscribe-now #AI #Software #ITModernization #Cybersecurity #QRadar #JeffCrume"
     ],
-    "chunk_count": 2
+    "chunk_count": 2,
+    "content_id": "96f9a762-c163-4ecb-a6b1-d86468688313",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555047"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=sesacY7Xz3c": {
     "title": "Cybersecurity Architecture: Networks",
@@ -2522,7 +3044,16 @@
       "holistic way. All right, now, we finished the networking topic. A couple of things that I didn't cover and I put here in the etc. just because of the interest of time, I didn't really get into very much in the physical networking side, things like 5G and Wi-Fi and the network security capabilities of those. If there's interest in that, put that down in the comments and maybe we'll revisit that in a future video. Until then, now we've completed the networking portion of our domains. The next one",
       "and, we want you to stay tuned and look for that one. The next one will be in the area of application security as we move along the various domains. Please remember to like, subscribe and hit notify so that you'll be aware when future videos in the series are available."
     ],
-    "chunk_count": 56
+    "chunk_count": 56,
+    "content_id": "0dca8fd2-97b1-4eba-81b9-8a6afffb8b5b",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555051"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=nthEXs12nFE": {
     "title": "Cybersecurity Architecture: Application Security",
@@ -2567,7 +3098,16 @@
       "learning from sources like OWASP so that we don't keep making the same mistakes over and over again. It feels a lot if you've been doing security like the movie Groundhog Day, we just keep reliving the same problems over and over and over again. So let's learn from those and use those good resources to not keep doing that. So now we've covered application security. In our next video, we're going to move over to cover data security, which is the crown jewels. That's the thing that we ultimately",
       "need to protect in most of these cases. And so that you don't miss that, make sure that you hit it like, subscribe, and notify. And that way you'll catch the next video when it comes out."
     ],
-    "chunk_count": 34
+    "chunk_count": 34,
+    "content_id": "dbc32016-51d8-4c77-9305-5b2d76e85b24",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555054"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=x2GRE-RzmD8": {
     "title": "Diffusion Models for AI Image Generation",
@@ -2597,7 +3137,16 @@
       "process it learned during training, to remove noise in the image and structure and patterns, you know, kind of like removing fog from the image until a new image has been generated. So the sophisticated architecture of these diffusion models allows them to pick up on complex patterns and also to create images that it's never seen before. In fact, the application of diffusion models spanned beyond just text to image use cases. Some other use cases involve image to image models, in painting missing",
       "components into an image, and even creating other forms of media like audio or video. In fact, diffusion models have been applied in different fields, everything from the marketing field to the medical field to even molecular modeling. Speaking of molecules, let's check on our beaker. If only I could. Well, would you look at that reverse diffusion! Anyways, thank you for watching. I hope you enjoyed this video and I will see you all next time. Peace."
     ],
-    "chunk_count": 19
+    "chunk_count": 19,
+    "content_id": "e471c364-43bf-4e27-80fb-d8877b1f5572",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555057"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=5sLYAQS9sWQ": {
     "title": "How Large Language Models Work",
@@ -2611,7 +3160,16 @@
       "various business problems. AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdK65X #llm #gpt #gpt3 #largelanguagemodel #watsonx #GenerativeAI #Foundationmodels"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "baea430e-a3ff-4d27-b49e-548adaf80342",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555060"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=ZZ2QUCePgYw": {
     "title": "Intro to AI agents",
@@ -2625,7 +3183,16 @@
       "systems examples 3:10 - Agentic architectures 4:57 - Get started building agents More resources: Oscar, Open source contributor agent →https://goo.gle/3Z2HqMm Compass Travel Planning Sample App → https://goo.gle/4hOczun Watch more Real Terms for AI → https://goo.gle/AIwordsExplained Subscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech #GoogleCloud #GenerativeAI Speakers: Aja Hammerly, Jason Davenport Products Mentioned: Cloud - AI and Machine Learning - Agents, Vertex AI, Gemini"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "05e1a256-8b65-48bc-8743-52c6279936b7",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555063"
+    },
+    "quality_score": 0.8,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=_d0duu3dED4": {
     "title": "Why Everyone’s Talking About MCP?",
@@ -2639,7 +3206,16 @@
       "books: https://bit.ly/3mlDSk9 ABOUT US: Covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview series."
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "8ace2968-bfb9-4ce8-a1f3-da21b374913f",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555067"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=fXizBc03D7E": {
     "title": "5 Types of AI Agents: Autonomous Functions & Real-World Applications",
@@ -2653,7 +3229,16 @@
       "Intro - 0:00 Simple Reflex Agent - 0:50 Model-Based Reflex Agent - 2:49 Goal-Based AI Agent - 4:20 Utility Based AI Agent- 5:43 Learning AI Agent - 6:55 Use Cases - 8:22 AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdnZTX #aiagents #machinelearning #ai"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "c78e62b8-72b9-4422-ad79-dc8c60a06489",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555070"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=_pEEJu-2KKM": {
     "title": "LLMs and AI Agents: Transforming Unstructured Data",
@@ -2667,7 +3252,16 @@
       "#aiagents"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "7b91b8fe-7855-49dc-9803-7164076abcb5",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555073"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=F8NKVhkZZWI": {
     "title": "What are AI Agents?",
@@ -2681,7 +3275,16 @@
       "adaptability. AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://www.ibm.com/account/reg/us-en/signup?formid=news-urx-52120"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "d220add7-87ea-4e17-a2ea-2627853a3095",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555076"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=gl1r1XV0SLw": {
     "title": "What is a Vector Database? Powering Semantic Search & AI Applications",
@@ -2695,7 +3298,16 @@
       "AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdG5uf #vectordatabase #semanticsearch #aiapplications #machinelearning"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "b2622347-b4f7-46c7-a747-1b724f3c1a75",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555079"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=McLdlg5Gc9s": {
     "title": "What is vLLM? Efficient AI Inference for Large Language Models",
@@ -2709,7 +3321,16 @@
       "solutions! 🚀 AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdnaVF #ai #llm #gpu #aidevelopment"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "0223e155-b011-4ebd-90be-f7a35ebfca63",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555083"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=uxE8FFiu_UQ": {
     "title": "Run AI Models Locally with Ollama: Fast & Simple Deployment",
@@ -2723,7 +3344,16 @@
       "AI deployment. 💡 Discover how to prototype smarter and optimize tools for enterprise tasks with ease. ✨\" AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdndQh #ollama #llm #aiintegration"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "a857481a-012b-451e-8294-02109c414d6d",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555086"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=2A94Mxn3jAc": {
     "title": "Securing AI Systems: Protecting Data, Models, & Usage",
@@ -2737,7 +3367,16 @@
       "the Cost of a Data Breach report → https://ibm.biz/BdnnH2 #aisecurity #cybersecurity #aithreats"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "f3b253e7-4082-45c1-8b00-0d2168aa76b1",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555089"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=a1M_thDTqmU": {
     "title": "Virtual Machine (VM) vs Docker",
@@ -2751,7 +3390,16 @@
       "relative strengths and ends by offering recommendations on criteria that will help you choose which is best for your project. Get started for free on IBM Cloud → https://ibm.biz/sign-up-now Subscribe to see more videos like this in the future → http://ibm.biz/subscribe-now"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "b11c09ea-cb43-4687-9b34-337f167da752",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555092"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=7j1t3UZA1TY": {
     "title": "MCP vs API: Simplifying AI Agent Integration with External Data",
@@ -2765,7 +3413,16 @@
       "Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdnPFw #modelcontextprotocol #api #aiintegration"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "3bdaf15e-fb32-4b36-a25e-5edce5ec3629",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555095"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=eur8dUO9mvE": {
     "title": "What is MCP? Integrate AI Agents with Databases & APIs",
@@ -2779,7 +3436,16 @@
       "projects! 🧠 AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdGhLP #aiagents #dataintegration #api"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "95149c07-9af8-4f25-9759-adb7b7f189c9",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555098"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=1bUy-1hGZpI": {
     "title": "What is LangChain?",
@@ -2792,7 +3458,16 @@
       "Learn about IBM watsonx→ https://ibm.biz/BdvkK8\n\nLangChain became immensely popular when it was launched in 2022, but how can it impact your development and application of AI models, Large Language Models (LLM) in particular. In this video Martin Keen shares an overview of the features and uses of LangChain.\n\nGet started for free on IBM Cloud → https://ibm.biz/sign-up-now\nSubscribe to see more videos like this in the future → http://ibm.biz/subscribe-now"
     ],
     "chunk_count": 1,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "4f414d51-c286-4527-bb31-13c2c9e0b9f5",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555101"
+    },
+    "quality_score": 0.4,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=eeOANluSqAE": {
     "title": "Your API is not an MCP | DEMFP786",
@@ -2806,7 +3481,16 @@
       "and why you should be careful designing your MCP set of tools and resources. To learn more, please check out these resources: * https://neon.tech/msbuild 𝗦𝗽𝗲𝗮𝗸𝗲𝗿𝘀: * David Gomes 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻: This is one of many sessions from the Microsoft Build 2025 event. View even more sessions on-demand and learn about Microsoft Build at https://build.microsoft.com DEMFP786 | English (US) | AI, Copilot & Agents #MSBuild, #AI"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "25b70994-530a-40e7-9586-febff324f9fd",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555104"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=EDb37y_MhRw": {
     "title": "Generative vs Agentic AI: Shaping the Future of AI Collaboration",
@@ -2820,7 +3504,16 @@
       "Discover the future of intelligent AI collaboration! 🚀 AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdndTz #generativeai #agenticai #ai #llm"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "22158d0d-daab-4518-9967-6de9ca658f1a",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555107"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=-ovM0daP6bw": {
     "title": "AI vs Human Thinking: How Large Language Models Really Work",
@@ -2834,7 +3527,16 @@
       "news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdnkLH #ai #llm #humanbrain"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "38c52487-8c75-4d08-bbcd-9dad37ccac23",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555110"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=XFZ-rQ8eeR8": {
     "title": "The 7 Types of AI - And Why We Talk (Mostly) About 3 of Them",
@@ -2848,7 +3550,16 @@
       "humans... someday (?). AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdKU7k"
     ],
     "chunk_count": 2,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "99cdbc2a-b902-47db-a7f3-68afb815d64d",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555113"
+    },
+    "quality_score": 0.6,
+    "tags": []
   },
   "https://www.youtube.com/watch?v=jq_LZ1RFPfU": {
     "title": "Cybersecurity Architecture: Five Principles to Follow (and One to Avoid)",
@@ -2863,6 +3574,15 @@
       "Security by Obscurity"
     ],
     "chunk_count": 3,
-    "processing_method": "alternative_extraction"
+    "processing_method": "alternative_extraction",
+    "content_id": "f175a284-b04a-4d20-942b-dc5d490b76b6",
+    "embeddings": null,
+    "processing_metadata": {
+      "method": "legacy",
+      "version": "1.0.0",
+      "timestamp": "2025-07-17T00:46:39.555116"
+    },
+    "quality_score": 0.8,
+    "tags": []
   }
 }
