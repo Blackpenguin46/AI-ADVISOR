@@ -197,11 +197,8 @@ class TestSecureDailyDevScraper(TestCase):
         self.assertEqual(self.scraper.stats['rate_limited_requests'], 1)
         self.assertEqual(self.scraper.stats['successful_requests'], 1)
         
-        # Should have slept for retry (may be called multiple times due to rate limiter)
-        self.assertGreater(mock_sleep.call_count, 0)
-        # Check that one of the calls was for the retry-after value
-        sleep_calls = [call.args[0] for call in mock_sleep.call_args_list]
-        self.assertIn(1, sleep_calls)
+        # Should have slept for retry
+        mock_sleep.assert_any_call(1)
     
     def test_make_graphql_request_unauthenticated(self):
         """Test GraphQL request when not authenticated."""
